@@ -2,7 +2,7 @@
 FROM centos:latest
 
 # 2.작성자 정보
-MAINTAINER 0.1 ck1214.lee@@mail.com
+MAINTAINER 0.1 ck1214.lee@gmail.com
 
 # 3.Apache HTTP Server 설치 
 RUN yum -y install httpd
